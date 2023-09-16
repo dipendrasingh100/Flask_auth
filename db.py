@@ -1,0 +1,5 @@
+stores = {}
+
+items = {}
+
+users = []
